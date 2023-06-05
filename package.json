@@ -1,0 +1,26 @@
+{
+  "name": "uiautomation",
+  "version": "1.0.0",
+  "description": "UI",
+  "main": "launch.js",
+  "scripts": {
+    "test": "nonoe"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "1234"
+  ],
+  "author": "Mohit",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0",
+    "jest-playwright-preset": "^3.0.1",
+    "playwright": "^1.34.3"
+  },
+  "dependencies": {
+    "jest-html-reporters": "^3.1.4"
+  }
+}
